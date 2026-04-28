@@ -34,7 +34,7 @@ button.grid(column=0, row=1,padx=10, pady= 10)                                  
 
 
 texto_das_cotacoes = Label(janela, text = (""))
-texto_das_cotacoes.grid(column=0, row= 2,padx=10, pady= 10)              ## isso aqui e o resultado das cotas atualizado
+texto_das_cotacoes.grid(column=0, row= 2,padx=10, pady= 10)              ##  isso aqui e o resultado das cotas atualizado
 
 
 janela.mainloop()
